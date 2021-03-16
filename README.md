@@ -15,7 +15,7 @@ DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFOR
 NÃO VENDE / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO TERMUX
 </div>
 
-### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+### FERRAMENTAS E MATERIAIS <img src=" " width="29px">
 Prepare as ferramentas e materiais.
 `` `bash
 > 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
@@ -40,7 +40,7 @@ INSTALAÇÃO:
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| ZEUS BOT      |                   Característica        |
+| DONO      |                   Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
@@ -75,9 +75,8 @@ INSTALAÇÃO:
 |       ✅       | Info                             |
 |       ✅       | Doar                           |
 |       ✅       | 18+.                             |
-|       ✅       | MAIS recursos em breve 🍂        |
 
-VINIZEUS DOMINA PORRA🐦❤️
+🐦❤️
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
