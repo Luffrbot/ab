@@ -2,8 +2,9 @@ const help = (prefix) => {
 	return `
 
 ╔════════════════════
-║        🌹𝐙𝐄𝐔𝐒 𝐁𝐎𝐓 🌹
+║        🌹 Botzinho 
 ╠════════════════════
+           Lücäs 🎩
 
 
 ➸ Prefix:  *「${prefix} 」*
@@ -108,9 +109,7 @@ const help = (prefix) => {
     
 
 ╔════════════════════
-  FEITO POR *ZEUS*
-  DUVIDAS? 👇
-  WA.me/556993899391
+        Lücäs 🎩
 ╚════════════════════`
 }
 
